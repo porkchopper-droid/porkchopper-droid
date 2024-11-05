@@ -1,7 +1,7 @@
-👋 Hi there! I'm Dmytro, a passionate web developer in the making. Currently on an exciting journey of learning and mastering the ins and outs of web development. I’m enthusiastic about creating clean, functional, and user-friendly designs, and I’m always eager to expand my skills. Whether it's front-end, back-end, or exploring new frameworks, I'm all in!
+##👋 Hi there! I'm Dmytro, a passionate web developer in the making. Currently on an exciting journey of learning and mastering the ins and outs of web development. I’m enthusiastic about creating clean, functional, and user-friendly designs, and I’m always eager to expand my skills. Whether it's front-end, back-end, or exploring new frameworks, I'm all in!
 
-💻 Currently learning: JavaScript, CSS, and responsive design
-🚀 Aspiring to: Build impactful projects and collaborate with like-minded developers
+##💻 Currently learning: JavaScript, CSS, and responsive design
+##🚀 Aspiring to: Build impactful projects and collaborate with like-minded developers
 
 Let's connect and code together!
 
