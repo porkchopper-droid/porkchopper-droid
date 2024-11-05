@@ -1,6 +1,3 @@
-Here’s a version with Markdown formatting:
-
-```markdown
 # 👋 Hi there! I'm Dmytro
 
 I'm a passionate web developer in the making, currently on an exciting journey of learning and mastering the ins and outs of web development. I’m enthusiastic about creating **clean**, **functional**, and **user-friendly** designs, and I’m always eager to expand my skills. Whether it's front-end, back-end, or exploring new frameworks, I'm all in!  
