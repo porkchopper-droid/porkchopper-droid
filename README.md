@@ -16,8 +16,6 @@ I'm a passionate **web developer in the making**. I thrive on crafting **clean**
 ### 📫 Let's connect!
 Feel free to reach out for collaboration, discussions, or just to say hi!
 
----
-
 ## ⚡ Tech Stack & Skills  
 
 ### 💡 Front-End  
