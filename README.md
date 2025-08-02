@@ -40,3 +40,5 @@ Feel free to reach out for collaboration, discussions, or just to say hi!
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
 ![Samba](https://img.shields.io/badge/Samba-%232C3A3E.svg?style=for-the-badge&logo=samba&logoColor=yellow)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
+![Tailscale](https://img.shields.io/badge/Tailscale-0061FF.svg?style=for-the-badge&logo=tailscale&logoColor=white)
