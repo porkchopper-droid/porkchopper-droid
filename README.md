@@ -31,6 +31,7 @@ Feel free to reach out for collaboration, discussions, or just to say hi!
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ### ☁️ Deployment & Cloud  
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%230096ff.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
