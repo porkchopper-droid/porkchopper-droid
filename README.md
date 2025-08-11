@@ -10,7 +10,7 @@ I recently completed my fullstack training at DCI (Digital Career Institute), wh
 - DevOps / Hosting: Raspberry Pi server hosting (prod & demo builds), Tailscale, secure Samba, CI-friendly project structure
 - Version Control & Workflow: Git branching, soft resets/reverts, clean commit history, Postman for API testing
 
-### Current Focus
+### 🚀 Current Focus
 - Expanding BookBook with new features & refinements
 - Improving TypeScript and automated testing skills
 - Contributing to open-source projects
