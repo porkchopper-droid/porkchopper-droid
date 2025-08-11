@@ -1,17 +1,20 @@
 # 👋 Hi there! I'm Dmytro
 
-I'm a passionate **web developer in the making**. I thrive on crafting **clean**, **functional**, and **user-friendly** experiences, while continuously pushing my boundaries. Whether it's **front-end**, **back-end**, or exploring new technologies, I'm always up for a challenge.
+I’m a frontend-leaning fullstack developer based in Germany, with a passion for turning ideas into production-ready software. I care about clean code, practical UX, and building things that actually get used.
 
-### 💻 Currently learning
-- Advanced JavaScript & React
-- Backend fundamentals (Node.js, MongoDB)
-- Responsive & accessible web design
+I recently completed my fullstack training at DCI (Digital Career Institute), where I focused on React, Node.js, and MongoDB by building real products from scratch — not just tutorials. My biggest project so far is BookBook, a complete book-swapping platform with map-based browsing, real-time chat, and swap logic. I even self-host it on my Raspberry Pi to manage deployment end-to-end.
 
-### 🚀 Aspiring to
-- Build impactful, scalable projects
-- Transition into a Junior Front-End Developer role
-- Expand into full-stack development
-- Collaborate with innovative developers
+### 💻 What I work with
+- Frontend: React, SCSS, responsive & accessible design, animations, form validation, map integrations
+- Backend: Node.js, Express, MongoDB, REST APIs, cron jobs, real-time messaging with Socket.io
+- DevOps / Hosting: Raspberry Pi server hosting (prod & demo builds), Tailscale, secure Samba, CI-friendly project structure
+- Version Control & Workflow: Git branching, soft resets/reverts, clean commit history, Postman for API testing
+
+### Current Focus
+- Expanding BookBook with new features & refinements
+- Improving TypeScript and automated testing skills
+- Contributing to open-source projects
+- Preparing for a Junior Frontend / Fullstack Developer role in a collaborative, product-driven team
 
 ### 📫 Let's connect!
 Feel free to reach out for collaboration, discussions, or just to say hi!
