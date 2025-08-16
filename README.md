@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Dmytro
+# 👋 Hi there! I'm D.
 
 I’m a frontend-leaning fullstack developer based in Germany, with a passion for turning ideas into production-ready software. I care about clean code, practical UX, and building things that actually get used.
 
